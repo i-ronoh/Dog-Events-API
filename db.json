@@ -1,5 +1,5 @@
 
-{ "dog-events": [
+[
     {
         "id": 1,
         "image": "./assets/media/PuppyManners.png",
@@ -34,4 +34,3 @@
         "entry": "free"
     }
 ]
-}
